@@ -48,14 +48,13 @@ As you can see here, I have participated in several BTC projects on vairous netw
 <p> https://honeybadgers.btcmint.app/</p>
 
 <hr />
-<h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
-<img align="left" width="300px" src="https://github.com/sakele1026/projects-overview-sol-etc-/assets/142078464/897cfe7f-1a4d-4ef3-bc59-92c131bc9834">
-<div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
-<div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
+<h3><u><strong><i>TombStoned Lootbox</i></strong></u> &nbsp;(Solana)</h3>
+<img align="left" width="300px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/0e5613d7-7209-4397-b0a5-654589fe054f">
+<div>This is a Lootbox game for TombStoned. There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that TombStone HighSociety holders can open once in a day.</div>
+<div>I built backend & smart contract as well as supported web3 integration to front-end.</div>
 <div>- Built backend for staking.</div>
 <div>- Built admin page and fixed frontend issues as well.</div>
-<p> https://pioneerlegends.com</p>
-
+<p> https://coffins.tombstoned.app/</p>
 
 <hr />
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
