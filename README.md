@@ -18,17 +18,19 @@ As you can see here, I have participated in several BTC projects on vairous netw
   - frontend repo: <a href="https://github.com/ptc-bink/runepro-FE">RunePro-Frontend</a>
 
 
-<hr/>
-<h3><u><strong><i>BTC ordinals</i></strong></u> &nbsp;(Bitcoin Burial)</h3>
-<div>Bitcoin Burials is a 10k Ordinals collection of lovingly crafted headstones in a pixel art style each engraved with the BTC logo and a date tied to an Obituary predicting Bitcoin's death as selected from an historic archive.</div>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/b64f50c4-32f7-45ed-83e7-428661fca89d">
-<div>Buy a Bitcoin Burial on Magic eden, OKX, Gamma and Ordinal.market</div>
-<div>- Built Back-end for Rune-mining, selling and transferring.</div>
+<hr />
+<h3><u><strong><i>DexOrdi</i></strong></u></h3>
+DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
 
-- Live: <a href="https://bitcoinburials.com/runes/mine">Bitcoin Burial</a>
+<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+
+The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
+
+- Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/bitcoinburials-app">Burial-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/bitcoinburials-FE">Burial-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
+<br />
 
 
 <hr />
