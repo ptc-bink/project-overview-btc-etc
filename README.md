@@ -31,18 +31,33 @@ As you can see here, I have participated in several BTC projects on vairous netw
   - frontend repo: <a href="https://github.com/ptc-bink/bitcoinburials-FE">Burial-Frontend</a>
 
 
-<hr/>
-<h3><u><strong><i>BTC/ETH Swap</i></strong></u> &nbsp;(Runex)</h3>
-<div>Ensuring seamless exchange between Bitcoin and Ethereum, enhancing liquidity and efficiency in decentralized finance.</div>
-<div>Empowering users in the ever-evolving crypto landscape.</div>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/d4b2c3ea-27b2-4a41-be4c-e13bbcce0456">
-<div>- Built Back-end for BTC/ETH swap.</div>
-<div>- Built Front-end using Next.js and Redux</div>
+<hr />
+<h3><u><strong><i>Ord Toolkit</i></strong></u></h3>
+I lead the development of the backend for Ord Toolkit, a platform focused on ordinals, BRC-20, and Bitcoin. Our comprehensive suite of utilities serves developers and everyday users, enhancing their experience with ordinals and blockchain technology.
 
-- Live: <a href="https://runex.tech">Runex</a>
+<img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
+
+- Site: <a href="https://ordtoolkit.app/">Ord Toolkit</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/ptc-bink/runex-app">Runex-Backend</a>
-  - frontend repo: <a href="https://github.com/ptc-bink/runex-FE">Runex-Frontend</a>
+  - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
+
+<br />
+
+
+<hr />
+<h3><u><strong><i>Galactic Kingdom</i></strong></u></h3>
+I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies. Our innovative tokenomics introduces the unique token 'GKB' for our play-to-earn (P2E) game. Users can experience the excitement of rarity, treasure boxes, and realistic 3D models of conquerors. 
+
+My responsibilities included backend development using Node.js, smart contract programming with Rust, and creating the game's website with Next.js and Tailwind CSS.
+
+<img align="right" width="300px" src="https://i.ibb.co/BwRB4gG/Galactickingdom.png">
+
+- Site: <a href="https://galactickingdom.io">Galactic Kingdom</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-BE">Galactic Kingdom-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-FE">Galactic Kingdom-Frontend</a>
+<br />
 
 
 <hr/>
@@ -54,16 +69,6 @@ As you can see here, I have participated in several BTC projects on vairous netw
 - Github repos: 
   - backend repo: <a href="https://github.com/ptc-bink/swap-apis">MunchSwap-Backend</a>
   - frontend repo: <a href="https://github.com/ptc-bink/munchswap/">MunchSwap-Frontend</a>
-
-
-<hr/>
-<h3><u><strong><i>Honey Badgers</i></strong></u> &nbsp;(BTC ordinals)</h3>
-<img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/d04c5236-94c9-4e2f-93a5-8d8c2c3e7735">
-<div>This is a generative 10k PFP collection inscribed on the Bitcoin Blockchain through Ordinals.</div>
-<div>It is an experiment to see if a native NFT community can emerge and thrive on the native Bitcoin ecosystem.</div>
-<div>- Built Back-end for minting.</div>
-<div>- Built admin page and fixed frontend issues as well.</div>
-<p> https://honeybadgers.btcmint.app/</p>
 
 
 <hr />
