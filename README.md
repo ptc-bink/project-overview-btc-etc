@@ -6,6 +6,19 @@ As you can see here, I have participated in several BTC projects on vairous netw
 
 
 <hr/>
+<h3><u><strong><i>Rune burn</i></strong></u> &nbsp;(Stone Face Ords)</h3>
+<div>Stone Face Ords consists of 1000 pixelated Moai generated using 102 traits all inscribed on unique sats (nakamoto, pizza, block 78)</div>
+<img align="right" width="300px" height="150px" src="https://github.com/ptc-bink/project-overview-btc-etc/assets/142078464/6ac457f5-8e3d-4894-bb72-86e14b73d1b4">
+<div>And pEng mint on main net will start.</div>
+<div>- Built Back-end & Front-end for Rune-burn </div>
+
+- Live: <a href="https://stonefaceords.com/">Stone Face Ords</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/ptc-bink/rune-burn-be">Runeburn-Backend</a>
+  - frontend repo: <a href="https://github.com/ptc-bink/rune-burn-fe">RurnBurn-Frontend</a>
+
+
+<hr/>
 <h3><u><strong><i>Bitcoin Defi</i></strong></u> &nbsp;(RunePro)</h3>
 <div>"RunePro Points are the blood of our ecosystem." - Get your 500 points for Minimum token allocation. Once allocation spots are full Points will go away.</div>
 <img align="right" width="300px" height="150px" src="https://github.com/sakele1026/project-overview-btc-etc/assets/142078464/2f5d9b30-7440-44d4-9978-32b65918ffdb">
