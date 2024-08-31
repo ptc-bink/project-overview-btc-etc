@@ -4,6 +4,17 @@ Here are my past web3 projects
 As you can see here, I have participated in several BTC projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms. 
 <div>All repos are under private status.</div>
 
+<hr/>
+<h3><u><strong><i>Rare Sats Seeker</i></strong></u> &nbsp;(Rune Seeker)</h3>
+<div>A unique 1 of 1 BTC Frens Seeker Machine, with original art by incredible pixel artist and a brute forced Vanity ID brute starting with '77777' and ending with '777'</div>
+<img align="right" width="300px" height="150px" src="https://github.com/user-attachments/assets/317890d8-8492-46a6-9667-4959086d7ab7">
+<div>There's no intentional rarity metric within the collection, all Primes are incredibly rare as the first ever collection on Prime Number Sats, all taken from 286 Nakamoto block.</div>
+<div>- Built Chrome extension for Rune Seeker team </div>
+
+- Live: <a href="https://prime-numbers.info/list/">Prime Numbers</a>
+- Github repos:
+  - repo: <a href="https://github.com/ptc-bink/highlight-sats-extension">Rare Sats Seeker</a>
+
 
 <hr/>
 <h3><u><strong><i>Rune burn</i></strong></u> &nbsp;(Stone Face Ords)</h3>
