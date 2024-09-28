@@ -15,6 +15,18 @@ As you can see here, I have participated in several BTC projects on vairous netw
 - Github repos:
   - repo: <a href="https://github.com/ptc-bink/highlight-sats-extension">Rare Sats Seeker</a>
 
+<hr />
+<h3><u><strong><i>Rune Developer</i></strong></u> &nbsp;(Bitcoin)</h3>
+Ordinal Genesis team support Ordinal Mint, Create Ordinal Collection, Ordinal Raffle, Rune Claiming Features. App support XVerse, Unisat and Leader Wallets so users can use any wallet. Especially used bitcoinjs lib for build app backend(swap ordinals, send rune tokens to multi users in one tx etc). Used Next.js for Frontend, Node.js for backend, Cosmos DB for database and Azure for deploy website. After publish Rune claiming website, start focus on Rune Recursive tech and trying to make another platform use that tech. This is a kind of company what uses cutting edge tech in bitcoin network. I am happy to share that I am a team member of this company and as a backend developer, built most of projects backend. Plz contact me anytime for ask any tech about bitcoin. Will help you as much as I know.
+<img align="right" width="300px" src="https://github.com/FCBtc1116/Blockchain-Projects-Overview/assets/89193350/cc9a0aef-1d8d-4029-978c-2d5a35f26ec6">
+
+
+- Live: <a href="https://ordinalgenesis.xyz/">Ordinal Genesis</a>
+- Github repos: 
+  - Rune Launchpad backend repo: <a href="https://github.com/FCBtc1116/Send-RuneToken-Multi-Address">OrdinalGenesis-RuneLaunchpad-Backend</a>
+  - Ordinal Raffle backend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-backend">OrdinalGenesis-OrindalRaffle-Backend</a>
+  - Ordinal Raffle frontend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-frontend">OrdinalGenesis-OrindalRaffle-Frontend</a>
+
 
 <hr/>
 <h3><u><strong><i>Rune burn</i></strong></u> &nbsp;(Stone Face Ords)</h3>
@@ -93,6 +105,23 @@ My responsibilities included backend development using Node.js, smart contract p
 <div>- Built backend for staking.</div>
 <div>- Built admin page and fixed frontend issues as well.</div>
 <p> https://coffins.tombstoned.app/</p>
+
+
+<hr />
+<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
+
+This is a game project deployed on blockchain networks. Users can play games use crypto
+
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+
+
+Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
+
+- Live: <a href="https://playzelo.xyz/">Playzelo</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
+  - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
+  - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
 
 
 <hr />
