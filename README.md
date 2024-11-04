@@ -112,7 +112,7 @@ My responsibilities included backend development using Node.js, smart contract p
 
 This is a game project deployed on blockchain networks. Users can play games use crypto
 
-<img align="right" width="300px" src="https://github.com/ptc-bink/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
 
 
 Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
@@ -129,7 +129,7 @@ Playzelo is a game project deployed on blockchain networks. There are several ga
 
 Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
 
-<img align="right" width="300px" src="https://github.com/ptc-bink/Blockchain-Projects-Overview/assets/89193350/801609f5-216b-4792-9db8-c1140ac38e64">
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/801609f5-216b-4792-9db8-c1140ac38e64">
 
 - Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
   - Functionality
@@ -147,7 +147,7 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
 
 This is a NFT project on Etheruem blockchain. Users can mint GEN111 or GEN2 NFTs and can get artifact as a reward from Staking.
 
-<img align="right" width="300px" src="https://github.com/ptc-bink/Blockchain-Projects-Overview/assets/89193350/7bfef799-1101-47a0-b747-bcb910683e92">
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/7bfef799-1101-47a0-b747-bcb910683e92">
 
 DigiMonkz is the leading Web3 Wellness NFT collection that is building alongside other passionate and accomplished entrepreneurs as we enter a Digital Age of unprecedented mental health problems. DigiMonkz fill a HUGE NEED as it provides premium content and instruction to LEVEL UP your mind, body, and spirit. We are designed for the NEXT GENERATION of Digital Entrepreneurs and Web3 Fans. The Life of a Degen Journey, as Bebe calls the DigiMonkz Mastermind, is designed to bring more balance and power to the lives of Web3 Degens.
 
