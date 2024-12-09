@@ -12,9 +12,8 @@ I have built and contributed to several innovative NFT and blockchain projects, 
   - Ordinal, Rune, and BRC20 sniping bots.
   - Non-custodial Bitcoin staking solutions.
   - Rune marketplace.
-
-This version is clear, professional, and structured while emphasizing your key contributions and current focus.
-(Note: All repositories for these projects are private.)
+    
+Note: All repositories for these projects are private.
 
 <hr/>
 <h3><u><strong><i>Rare Sats Seeker</i></strong></u> &nbsp;(Rune Seeker)</h3>
