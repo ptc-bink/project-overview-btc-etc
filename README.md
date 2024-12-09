@@ -1,8 +1,20 @@
 <i>Web3 projects overview</i>
 
-Here are my past web3 projects
-As you can see here, I have participated in several BTC projects on vairous networks like minting, staking, evolution/breeding, raffle/auction, marketplace, launchpad, nft lend/borrow platforms. 
-<div>All repos are under private status.</div>
+I have built and contributed to several innovative NFT and blockchain projects, including:
+
+- **Solana Network**: 
+  - Minting, staking, evolution/breeding, raffle/auction, and marketplace functionalities.
+  - Launchpads and P2E games (Dice, Crash, Jackpot, Coinflip, etc.)
+
+- **Bitcoin Network**: 
+  - Ordinal marketplace and auction platforms.
+  - Rune airdrops and auctions.
+  - Ordinal, Rune, and BRC20 sniping bots.
+  - Non-custodial Bitcoin staking solutions.
+  - Rune marketplace.
+
+This version is clear, professional, and structured while emphasizing your key contributions and current focus.
+(Note: All repositories for these projects are private.)
 
 <hr/>
 <h3><u><strong><i>Rare Sats Seeker</i></strong></u> &nbsp;(Rune Seeker)</h3>
