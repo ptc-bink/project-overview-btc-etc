@@ -1,22 +1,45 @@
 <i>Web3 projects overview</i>
 
 I have built and contributed to several innovative NFT and blockchain projects, including:
+- Note: All repositories for these projects are private.
 
-- **Solana Network**: 
-  - Minting, staking, evolution/breeding, raffle/auction, and marketplace functionalities.
-  - Launchpads and P2E games (Dice, Crash, Jackpot, Coinflip, etc.)
-
-- **Bitcoin Network**: 
-  - Ordinal marketplace and auction platforms.
-  - Rune airdrops and auctions.
-  - Ordinal, Rune, and BRC20 sniping bots.
-  - Non-custodial Bitcoin staking solutions.
-  - Rune marketplace.
-    
-Note: All repositories for these projects are private.
 
 <hr/>
-<h3><u><strong><i>Rare Sats Seeker</i></strong></u> &nbsp;(Rune Seeker)</h3>
+<h3><u><strong><i>Rune Marketplace</i></strong></u> &nbsp;(Bitscape team)</h3>
+<div></div>
+<img align="right" width="300px" height="150px" src="https://github.com/user-attachments/assets/4c171288-b3ca-4734-a118-992ed0bb6704">
+<div>User can swap, trade and create BTC-Rune, BTC-Brc20 pair pools with ease. This store all traded txIds in the database and draw trading view for each pools.</div>
+<div>- Pools can be locked by one user, so no one else can trade during the lock period</div>
+
+- Live: <a href="https://bitscape.io/new/">Bitscape marketplace</a>
+- Github repos:
+  - repo: <a href="https://github.com/ptc-bink/bitcoin-marketplace">Backend repo</a>
+
+
+<hr />
+<h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitmap community)</h3>
+This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
+<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/453817f2-3920-4626-9c53-1041e67f15b5">
+
+BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
+
+- Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/ptc-bink/BRC20-withdraw-Backend">Backend-repo</a>
+  - frontend repo: <a href="https://github.com/ptc-bink/BRC20-Withdraw-Unisat">Frontend-repo</a>
+
+
+<hr />
+<h3><u><strong><i>Bitcoin Dapp</i></strong></u> &nbsp;(Alrethias Agora)</h3>
+AletheiasAgora is a DApp project. Users can use this platform to mint ordinals and then use the ordinals to create raffles. You can also perform ordinal recursion, ordinal reinscription, etc. We have deployed Rune Swap and enhanced security using a MultiSig wallet. Additionally, we have completed non-custodial BTC staking utilizing CLTV (CheckLockTimeVerify, Control RedeemScript) technology. <b><i>Now Making Rune Liquidity Pool</i></b>.
+
+- Github repos: 
+  - backend repo: <a href="https://github.com/ptc-bink/COVault-App/tree/master/multisig-wallet">Backend-repo</a>
+  - frontend repo: <a href="https://github.com/ptc-bink/COVault-App/tree/master/multisig-wallet-fe">Frontend-repo</a>
+
+
+<hr/>
+<h3><u><strong><i>Rare Sats Seeker</i></strong></u> &nbsp;(Planetary Primes team)</h3>
 <div>A unique 1 of 1 BTC Frens Seeker Machine, with original art by incredible pixel artist and a brute forced Vanity ID brute starting with '77777' and ending with '777'</div>
 <img align="right" width="300px" height="150px" src="https://github.com/user-attachments/assets/317890d8-8492-46a6-9667-4959086d7ab7">
 <div>There's no intentional rarity metric within the collection, all Primes are incredibly rare as the first ever collection on Prime Number Sats, all taken from 286 Nakamoto block.</div>
@@ -26,17 +49,17 @@ Note: All repositories for these projects are private.
 - Github repos:
   - repo: <a href="https://github.com/ptc-bink/highlight-sats-extension">Rare Sats Seeker</a>
 
+
 <hr />
-<h3><u><strong><i>Rune Developer</i></strong></u> &nbsp;(Bitcoin)</h3>
+<h3><u><strong><i>Ordinal Raffle / Rune launchpad</i></strong></u> &nbsp;(Ordinal Genesis team)</h3>
 Ordinal Genesis team support Ordinal Mint, Create Ordinal Collection, Ordinal Raffle, Rune Claiming Features. App support XVerse, Unisat and Leader Wallets so users can use any wallet. Especially used bitcoinjs lib for build app backend(swap ordinals, send rune tokens to multi users in one tx etc). Used Next.js for Frontend, Node.js for backend, Cosmos DB for database and Azure for deploy website. After publish Rune claiming website, start focus on Rune Recursive tech and trying to make another platform use that tech. This is a kind of company what uses cutting edge tech in bitcoin network. I am happy to share that I am a team member of this company and as a backend developer, built most of projects backend. Plz contact me anytime for ask any tech about bitcoin. Will help you as much as I know.
 <img align="right" width="300px" src="https://github.com/FCBtc1116/Blockchain-Projects-Overview/assets/89193350/cc9a0aef-1d8d-4029-978c-2d5a35f26ec6">
 
-
 - Live: <a href="https://ordinalgenesis.xyz/">Ordinal Genesis</a>
 - Github repos: 
-  - Rune Launchpad backend repo: <a href="https://github.com/FCBtc1116/Send-RuneToken-Multi-Address">OrdinalGenesis-RuneLaunchpad-Backend</a>
-  - Ordinal Raffle backend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-backend">OrdinalGenesis-OrindalRaffle-Backend</a>
-  - Ordinal Raffle frontend repo: <a href="https://github.com/FCBtc1116/ordinal-raffle-frontend">OrdinalGenesis-OrindalRaffle-Frontend</a>
+  - Rune Launchpad backend repo: <a href="https://github.com/ptc-bink/Send-RuneToken-Multi-Address">RuneLaunchpad-Backend</a>
+  - Ordinal Raffle backend repo: <a href="https://github.com/ptc-bink/ordinal-raffle-backend">OrindalRaffle-Backend</a>
+  - Ordinal Raffle frontend repo: <a href="https://github.com/ptc-bink/ordinal-raffle-frontend">OrindalRaffle-Frontend</a>
 
 
 <hr/>
